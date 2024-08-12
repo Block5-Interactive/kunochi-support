@@ -1,8 +1,41 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Kunochi Support
+description: The support center for Kunochi Shopping.
 theme: just-the-docs
-
-url: https://just-the-docs.github.io
+url: https://support.kunochi.shop
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Roblox Group: https://www.roblox.com/groups/34484530/Kunochi-Shopping#!/about
+  Discord Server: https://discord.gg/y7c5mRTPuF
+  Store: https://www.roblox.com/games/18242896531/WORK-AT-A-STORE-Kunochi-Store-Roleplay
+  Training Center: https://www.roblox.com/games/18421300343/GET-TRAINED-Kunochi-Training-Center
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2024-25 Kunochi Shopping & Capital Company Management."
+
+
